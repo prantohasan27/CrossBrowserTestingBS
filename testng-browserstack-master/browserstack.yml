@@ -1,0 +1,16 @@
+userName: browserstackadmi18
+accessKey: 7KqxjTiW2QhdPwtPpcrB
+framework: testng
+platforms:
+  - deviceName: iPad Air 5
+    osVersion: 15
+    browserName: safari
+    deviceOrientation: portrait
+  - deviceName: iPhone 14 Pro Max
+    osVersion: 16
+    browserName: safari
+    deviceOrientation: portrait
+  - deviceName: iPad Pro 12.9 2021
+    osVersion: 14
+    browserName: safari
+    deviceOrientation: portrait
